@@ -1,0 +1,7 @@
+#table {
+  background: linear-gradient(to top right, gold, goldenrod);
+}
+#table td {
+  border: solid 1px #fff;
+  cursor: pointer;
+}
